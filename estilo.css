@@ -1,4 +1,6 @@
-div {
+.button {
+    width: 50%;
+    margin: 0 auto;
     padding: 5px;
     background-color: green;
 }
