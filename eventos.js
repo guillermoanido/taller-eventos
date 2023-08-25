@@ -1,1 +1,1 @@
-button.addEventListener("click" , alert('Hola! Soy el div'))
+button1.addEventListener("click" , alert('Hola! Soy el div'))
